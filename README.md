@@ -9,7 +9,7 @@ Welcome to my personal portfolio! I'm Shoaib, a passionate developer dedicated t
 <br>
 <h3>🛠️ Technologies & Tools</h3>
 I work with a variety of technologies to create professional things:<br>
-I made it a staic websites <br>I am in learning fase as a pyrthon developer
+I made it a staic websites <br>I am in learning fase as a python developer also learned pandas and Numpy
 
 Version Control: Git, GitHub
 
